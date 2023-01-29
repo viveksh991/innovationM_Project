@@ -1,4 +1,4 @@
-# innovationM-assignment---
+# InnovationM-assignment---
 
 This is the Assignment project for getting the mobile brands name from flipkart web with in a proper format.
 
@@ -19,13 +19,13 @@ Assignment steps -
 
 
 
-# for Run
+# Ror Running the framework --
 
-- clone the project
-- need python3
-- install the requirements.txt
-- open terminal or git bash
-- go to the TestCases dir.
+- Clone the project
+- Need python3
+- Install the requirements.txt
+- Open terminal or git bash
+- go to the project TestCases directory
 - and run this cmd - pytest -v -s
 
 
