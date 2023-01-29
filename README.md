@@ -33,7 +33,7 @@ Assignment steps -
 
 pytest,  POM model
 
-Tools/Skills -
+# Tools/Skills -
 
 pycharm, python, selenium, pytest, allure-report
 
