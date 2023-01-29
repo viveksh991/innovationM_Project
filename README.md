@@ -19,7 +19,7 @@ Assignment steps -
 
 
 
-# Ror Running the framework --
+# For Running the Framework --
 
 - Clone the project
 - Need python3
@@ -29,8 +29,12 @@ Assignment steps -
 - and run this cmd - pytest -v -s
 
 
-Framework - pytest,  POM model
+# Framework -
 
-Tools/Skills- pycharm, python, selenium, pytest, allure-report
+pytest,  POM model
+
+Tools/Skills -
+
+pycharm, python, selenium, pytest, allure-report
 
 
