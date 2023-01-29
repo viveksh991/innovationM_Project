@@ -4,7 +4,8 @@ This is the Assignment project for getting the mobile brands name from flipkart 
 
 
 Assignment steps -
-1 - Hit Flipkart website ‘https://www.flipkart.com/
+
+1 - Hitting the Flipkart url-  ‘https://www.flipkart.com/
 
 2 - click on the close icon and cancel the login pop-up.
 
@@ -17,8 +18,19 @@ Assignment steps -
 6 - Need to print all the mobile brands as per below format on console :
 
 
-# Framework - pytest,  POM model
 
-# tools/skills- pycharm, python, selenium, pytest, allure-report
+# for Run
+
+- clone the project
+- need python3
+- install the requirements.txt
+- open terminal or git bash
+- go to the TestCases dir.
+- and run this cmd - pytest -v -s
+
+
+Framework - pytest,  POM model
+
+Tools/Skills- pycharm, python, selenium, pytest, allure-report
 
 
